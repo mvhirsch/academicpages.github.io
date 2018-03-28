@@ -61,7 +61,7 @@ facebook:
   username               : antoniker
   app_id                 :
   publisher              :
-og_image                 : https://mvhirsch.github.io/images/profile.png
+og_image                 : profile.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
