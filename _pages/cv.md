@@ -9,51 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Magora Group GmbH (2017 - today): Senior Software Developer
+  * https://magora.com/
+  * NodeJS, PHP, Docker, MongoDB, MySQL/PostgreSQL, Virtualization, Microservices
+  * Duties included: Maintaining a PHP legacy-monolith
+  * Building a distributed NodeJS architecture
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Exozet GmbH (2014 - 2017): Senior Software Developer / Team Lead
+  * https://exozet.com/
+  * PHP, MySQL, Docker, Vagrant
+  * Duties included: Building video platforms for the web
+
+* Okto (2010 - 2014): Software developer
+  * https://okto.tv/
+  * PHP, JS (jQuery)
+  * Duties included: "Oktothek", an online video platform
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * SDV Informatikschule, Vienna, Austria, 2008
 
-Publications
+
+Things I love
+======
+* PHP, NodeJS
+* Symfony
+* Docker
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
