@@ -17,7 +17,6 @@ Work experience
   * Building a distributed NodeJS architecture
 
 * [Exozet GmbH](https://exozet.com) (2014 - 2017): Senior Software Developer / Team Lead
-  * https://exozet.com/
   * PHP, MySQL, Docker, Vagrant
   * Duties included: Building video platforms for the web
 
