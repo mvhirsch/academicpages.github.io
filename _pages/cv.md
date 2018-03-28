@@ -11,19 +11,17 @@ redirect_from:
 
 Work experience
 ======
-* Magora Group GmbH (2017 - today): Senior Software Developer
-  * https://magora.com/
+* [Magora Group GmbH](https://magora.com) (2017 - today): Senior Software Developer
   * NodeJS, PHP, Docker, MongoDB, MySQL/PostgreSQL, Virtualization, Microservices
   * Duties included: Maintaining a PHP legacy-monolith
   * Building a distributed NodeJS architecture
 
-* Exozet GmbH (2014 - 2017): Senior Software Developer / Team Lead
+* [Exozet GmbH](https://exozet.com) (2014 - 2017): Senior Software Developer / Team Lead
   * https://exozet.com/
   * PHP, MySQL, Docker, Vagrant
   * Duties included: Building video platforms for the web
 
-* Okto (2010 - 2014): Software developer
-  * https://okto.tv/
+* [Okto](https://okto.tv) (2010 - 2014): Software developer
   * PHP, JS (jQuery)
   * Duties included: "Oktothek", an online video platform
 
