@@ -8,7 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
-
 Hi, I'm Michael Hirschler and I love to write code.
