@@ -22,7 +22,7 @@ As for all in Docker, every image should one run _one process_ (not [running cir
 After looking at the dependencies of both images, I made a decision: both images are good to go, but for my opinion, quiet to large (in size and dependencies).
 So I decided to build my own.
 
-Finally, my first public Docker image arrived: https://hub.docker.com/r/mvhirsch/thumbor/
+Finally, my first public Docker image arrived: [mvhirsch/thumbor](https://hub.docker.com/r/mvhirsch/thumbor/)
 
 It comes with the smallest footprint of dependencies I was able to manage (650 MiB instead 1.7 GiB). Still, there is room for improvement (like a planned `alpine` version of it). But I'm happy to announce a fully working, just scaleable Docker image. Feel free to contribute: https://github.com/mvhirsch/thumbor-docker
 
