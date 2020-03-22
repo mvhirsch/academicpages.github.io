@@ -12,9 +12,11 @@ redirect_from:
 Work experience
 ======
 * [Magora Group GmbH](https://magora.com) (2017 - today): Senior Software Developer
-  * NodeJS, PHP, Docker, MongoDB, MySQL/PostgreSQL, Virtualization, Microservices
-  * Duties included: Maintaining a PHP legacy-monolith
+  * NodeJS, PHP, Docker (both on Swarm and Kubernetes), MongoDB, MySQL/PostgreSQL, Redis, Microservices
+  * Duties included: Refactoring a PHP-monolith in microservices, teaching [12factor-app](https://12factor.net/) principles
   * Building a distributed NodeJS architecture
+  * Building a dating platform
+  * Building automatic media-buying tool for various social platforms
 
 * [Exozet GmbH](https://exozet.com) (2014 - 2017): Senior Software Developer / Team Lead
   * PHP, MySQL, Docker, Vagrant
@@ -24,16 +26,38 @@ Work experience
   * PHP, JS (jQuery)
   * Duties included: "Oktothek", an online video platform
 
+
+Sports
+======
+
+* Taekwondo since 2008, 2. Dan
+  * Instructor/Trainer (in education)
+  * National referee Poomsae and Kyorugi since 2018
+* Judo since 2017, Kyu
+* Teaching self-defense
+
+
 Education
 ======
   * SDV Informatikschule, Vienna, Austria, 2008
+  * Certified Microsoft Application Developer
 
 
 Things I love
 ======
-* PHP, NodeJS
-* Symfony
-* Docker
+* [PHP](https://php.net), [NodeJS](https://nodejs.org/en/)
+* [Symfony](https://symfony.com/)
+* [Docker](https://www.docker.com/)
+* [Fedora](https://getfedora.org/)
+
+
+Principles
+======
+
+* You build it, you run it.
+* Code, like the guy looking at your code afterwards knows where you live.
+* Always keep a smile on your face.
+
 
 <!-- Publications
 ======
