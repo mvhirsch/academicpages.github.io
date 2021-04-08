@@ -36,7 +36,7 @@ Sports
 Certifications
 --------------
 
-* Certified Sport Instructor (License C, AUstria) 2020
+* Certified Sport Instructor (License C, Austria) 2020
 
 
 Education
