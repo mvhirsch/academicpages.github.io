@@ -12,11 +12,9 @@ redirect_from:
 Work experience
 ======
 * [Magora Group GmbH](https://magora.com) (2017 - today): Senior Software Developer
-  * NodeJS, PHP, Docker (both on Swarm and Kubernetes), MongoDB, MySQL/PostgreSQL, Redis, Microservices
+  * NodeJS, PHP, Docker (Compose & Kubernetes), MongoDB, MySQL/PostgreSQL, Redis
   * Duties included: Refactoring a PHP-monolith in microservices, teaching [12factor-app](https://12factor.net/) principles
   * Building a distributed NodeJS architecture
-  * Building a dating platform
-  * Building automatic media-buying tool for various social platforms
 
 * [Exozet GmbH](https://exozet.com) (2014 - 2017): Senior Software Developer / Team Lead
   * PHP, MySQL, Docker, Vagrant
@@ -31,10 +29,14 @@ Sports
 ======
 
 * Taekwondo since 2008, 2. Dan
-  * Instructor/Trainer (in education)
   * National referee Poomsae and Kyorugi since 2018
 * Judo since 2017, Kyu
 * Teaching self-defense
+
+Certifications
+--------------
+
+* Certified Sport Instructor (License C, AUstria) 2020
 
 
 Education
